@@ -7,6 +7,8 @@ Hello! I'm Blondy, a passionate learner with a background in 3D animation, games
 As someone deeply immersed in the world of game development and programming, here are some of my key skills:
 
 - Game Development: Proficient in Unity and Unreal Engine, with experience in creating interactive and immersive gaming experiences.
+  
+- Fullstack Development: Currently enrolled in a fullstack bootcamp, gaining skills in frontend and backend development.
 
 - Programming Languages:
 
