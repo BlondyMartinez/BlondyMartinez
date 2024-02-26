@@ -27,3 +27,6 @@ Como alguien profundamente inmersa en el mundo del desarrollo de videojuegos y p
 
 - Discord: blondym
 - LinkedIn: [Blondy-Martinez](https://www.linkedin.com/in/blondy-martinez/)
+
+## Estadísticas
+[![GitHub Streak](https://streak-stats.demolab.com?user=BlondyMartinez&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
