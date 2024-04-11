@@ -7,17 +7,40 @@ Hello! I'm Blondy, a passionate learner with a background in 3D animation, games
 
 ## Skills 🚀
 As someone deeply immersed in the world of game development and programming, here are some of my key skills:
+- Web Development:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs" />
+  </a>
+</p>
 
-- Game Development: Proficient in Unity and Unreal Engine, with experience in creating interactive and immersive gaming experiences.
-  
-- Fullstack Development: Currently enrolled in a fullstack bootcamp, gaining skills in frontend and backend development.
+- Game Development:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  </a>
+</p>
 
 - Programming Languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,ruby" />
+  </a>
+</p>
 
-  - C#: Used extensively in Unity development for scripting gameplay, UI, and more.
-  - C++: Leveraged in Unreal Engine for game logic and performance-critical systems.
-  - Ruby: Currently exploring Ruby programming through The Odin Project's Ruby path.
-  - CSS, JavaScript, HTML: Currently learning web development fundamentals through self-study and a bootcamp.
+- Testing:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest" />
+  </a>
+</p>
+
+- Design Software:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps" />
+  </a>
+</p>
 
 ## Top Languages
 
