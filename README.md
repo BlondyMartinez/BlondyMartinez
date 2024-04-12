@@ -43,8 +43,9 @@ As someone deeply immersed in the world of game development and programming, her
 </p>
 
 ## Top Languages
-
-![Blondy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlondyMartinez&layout=compact&exclude_repo=CT6008)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlondyMartinez&layout=compact&exclude_repo=CT6008" alt="Blondy's Top Languages">
+</p>
 
 ## Contact Me 📧
 Feel free to reach out to me through the following channels:
@@ -53,4 +54,8 @@ Feel free to reach out to me through the following channels:
 - LinkedIn: [Blondy-Martinez](https://www.linkedin.com/in/blondy-martinez/)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=BlondyMartinez&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BlondyMartinez&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
+  </a>
+</p>
