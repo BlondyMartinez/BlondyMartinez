@@ -10,7 +10,7 @@ As someone deeply immersed in the world of game development and programming, her
 - Web Development:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,flask" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ As someone deeply immersed in the world of game development and programming, her
 - Programming Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js,ruby" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,ruby,python" />
   </a>
 </p>
 
