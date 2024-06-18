@@ -3,40 +3,40 @@
 # Blondy Martinez 👨‍💻
 
 ## About Me
-Hello! I'm Blondy, a passionate learner with a background in 3D animation, games, and interactive environments. After completing the equivalent of an Associate's degree in this field, I discovered my love for programming. Currently, I'm pursuing studies in computer games programming, although my journey has been slightly interrupted due to the challenges brought about by the COVID-19 pandemic. Also currently enrolled in a Full-Stack development bootcamp.
+Hello, I'm Blondy, a skilled full-stack developer with a background in computer games programming and experience in various programming languages and frameworks. Proficient in both front-end and back-end development, with experience in testing and familiarity with design software.
 
 ## Skills 🚀
 As someone deeply immersed in the world of game development and programming, here are some of my key skills:
 - Web Development:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flask" />
   </a>
 </p>
 
 - Game Development:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal" />
   </a>
 </p>
 
 - Programming Languages:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,js,ruby,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ruby,python" />
   </a>
 </p>
 
 - Testing:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" />
   </a>
 </p>
 
 - Design Software:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps" />
   </a>
