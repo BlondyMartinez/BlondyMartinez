@@ -10,7 +10,7 @@ As someone deeply immersed in the world of game development and programming, her
 - Web Development:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,react,flask" />
   </a>
 </p>
 
