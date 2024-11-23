@@ -7,38 +7,9 @@ Hello, I'm Blondy, a skilled full-stack developer with a background in computer 
 
 ## Skills 🚀
 As someone deeply immersed in the world of game development and programming, here are some of my key skills:
-- Web Development:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,react,flask" />
-  </a>
-</p>
-
-- Game Development:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal" />
-  </a>
-</p>
-
-- Programming Languages:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,ruby,python" />
-  </a>
-</p>
-
-- Testing:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest" />
-  </a>
-</p>
-
-- Design Software:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,react,flask,cpp,cs,ruby,python,jest,unity,unreal,ps" />
   </a>
 </p>
 
