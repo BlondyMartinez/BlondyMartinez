@@ -1,6 +1,7 @@
 import os
 import requests
 import matplotlib.pyplot as plt
+import seaborn as sns
 from collections import defaultdict
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -58,24 +59,30 @@ def aggregate_languages(repos):
         for lang in repo["languages"]["edges"]:
             language = lang["node"]["name"]
             size = lang["size"]
-            language_usage[language] += size
+
+            if language.lower() not in ["hcl", "dockerfile", "yaml", "json"]:
+                language_usage[language] += size
+
     return sorted(language_usage.items(), key=lambda x: x[1], reverse=True)
 
-def generate_chart(language_data):
+def generate_svg_chart(language_data):
     if not language_data:
         return
 
-    labels, sizes = zip(*language_data[:10])
-    colors = plt.get_cmap("tab20").colors
-
-    fig, ax = plt.subplots(figsize=(8, 6))
-    ax.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, colors=colors)
-    ax.axis("equal")
+    labels, sizes = zip(*language_data[:10]) 
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x=list(labels), y=list(sizes), palette="viridis")
     plt.title("Languages Used Across Contributions")
+    plt.xlabel("Language")
+    plt.ylabel("Bytes of Code")
+    plt.xticks(rotation=45, ha="right")
+
     os.makedirs("assets", exist_ok=True)
-    plt.savefig("assets/langs.png", bbox_inches='tight')
+    plt.tight_layout()
+    plt.savefig("assets/langs.svg", format="svg")
+    plt.close()
 
 if __name__ == "__main__":
     repos = get_repos_contributed_to()
     langs = aggregate_languages(repos)
-    generate_chart(langs)
+    generate_svg_chart(langs)
