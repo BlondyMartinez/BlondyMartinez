@@ -23,8 +23,8 @@ jobs:
 
       - name: Run language chart script
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-          GITHUB_USERNAME: ${{ secrets.MY_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_USERNAME: ${{ secrets.NAME }}
         run: python scripts/language_stats.py
 
       - name: Commit and push changes
