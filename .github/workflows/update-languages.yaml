@@ -26,15 +26,15 @@ jobs:
 
       - name: Run language chart script
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
-          GITHUB_USERNAME: ${{ secrets.MY_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_USERNAME: ${{ secrets.NAME }}
         run: python scripts/language_stats.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.MY_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
 
           # Make sure the new file is added and commit it
           git add assets/langs.svg
